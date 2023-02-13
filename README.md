@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/108534539/218347565-ebebee5e-3de3-427a-8370-cef5e44c3591.png)
 
 
-Environment:\n
+Environment:/n
 This document introduces you to the data platform architecture of an ecommerce company named SoftCart.
 
 SoftCart uses a hybrid architecture, with some of its databases on premises and some on cloud.
@@ -18,7 +18,7 @@ Tools and Technologies:
 - Business Intelligence Dashboard - IBM Cognos Analytics
 - Data Pipelines - Apache Airflow
 
-Process:\n
+Process:/n
 - SoftCart's online presence is primarily through its website, which customers access using a variety of devices like laptops, mobiles and tablets.
 
 - All the catalog data of the products is stored in the MongoDB NoSQL server.
